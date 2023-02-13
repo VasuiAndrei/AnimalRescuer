@@ -1,6 +1,6 @@
 package org.example;
 
-public class Adoption {
+public class Adoption extends Animal {
 
     String nameAdoption;
     double moneyAvailable;

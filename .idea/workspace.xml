@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d6151c1-981b-40f1-bd14-c404f84b63d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Adoption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FoodForAnimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RecreationalActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Veterinarian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675808721061</updated>
       <workItem from="1675808722959" duration="516000" />
-      <workItem from="1676308034054" duration="2013000" />
+      <workItem from="1676308034054" duration="2335000" />
     </task>
     <task id="LOCAL-00001" summary="da">
       <created>1675809158254</created>
@@ -97,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675809158254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating the classes">
+      <created>1676310149998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676310149998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Game class">
+      <created>1676310362218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676310362218</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="da" />
-    <option name="LAST_COMMIT_MESSAGE" value="da" />
+    <MESSAGE value="Creating the classes" />
+    <MESSAGE value="Game class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game class" />
   </component>
 </project>
