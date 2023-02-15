@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5d6151c1-981b-40f1-bd14-c404f84b63d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Adoption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Adoption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FoodForAnimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FoodForAnimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +87,9 @@
       <updated>1675808721061</updated>
       <workItem from="1675808722959" duration="516000" />
       <workItem from="1676308034054" duration="2335000" />
+      <workItem from="1676310550225" duration="301000" />
+      <workItem from="1676368365724" duration="174000" />
+      <workItem from="1676501884159" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="da">
       <created>1675809158254</created>
@@ -104,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676310362218</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sub-classes">
+      <created>1676310844593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676310844593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +129,7 @@
     <MESSAGE value="da" />
     <MESSAGE value="Creating the classes" />
     <MESSAGE value="Game class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Game class" />
+    <MESSAGE value="Sub-classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sub-classes" />
   </component>
 </project>

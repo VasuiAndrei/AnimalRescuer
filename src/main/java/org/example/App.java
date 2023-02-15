@@ -8,12 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-
         System.out.println( "Hello World!" );
 
-        Adoption adoption = new Adoption();
-        adoption.nameAdoption = "Vasile";
-        adoption.moneyAvailable = 200.50;
+        Adoption adoptionReference = new Adoption();
+        adoptionReference.nameAdoption = "Vasile";
+        adoptionReference.moneyAvailable = 200.50;
 
         Animal dog = new Animal();
         dog.age = 2;
@@ -28,8 +27,8 @@ public class App
         veterinarian.nameVeterinarian = "George";
         veterinarian.specialization = "Medic veterinar";
 
-        System.out.println("Numele adoptatorului este: " + adoption.nameAdoption);
-        System.out.println("Banii disponibili: " + adoption.moneyAvailable);
+        System.out.println("Numele adoptatorului este: " + adoptionReference.nameAdoption);
+        System.out.println("Banii disponibili: " + adoptionReference.moneyAvailable);
         System.out.println("-----------------------");
         System.out.println("Numele cainelui este: " + dog.nameAnimal);
         System.out.println("Varsta: " + dog.age);
